@@ -1,0 +1,41 @@
+.gameflex {
+
+        font-size: x-large;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        flex: 1;
+
+}
+
+
+.gametxt {
+
+        font-size: x-large;
+        text-align: center;
+        width: fit-content;
+       
+
+
+}
+
+.gamepic {
+
+    width: 150px;
+    
+    
+}
+
+.audiobox {
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex:1;
+        width: 150px;
+        justify-content: space-evenly;
+
+        
+    
+}

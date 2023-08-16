@@ -1,0 +1,39 @@
+.macrogird {
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    flex: 1;
+}
+
+.microgrid {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    
+}
+
+
+.image 
+{
+    width: 150px;
+    
+    border-style: inset;
+    border-color:gold;
+    
+}
+
+.schooltxt {
+   
+    width: 150px;
+    align-items: center;
+    border-style: inset;
+    border-color:gold;
+    text-align: center;
+   
+}
+
